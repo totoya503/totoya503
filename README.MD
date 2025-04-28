@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angel</h1>
+<img src="/github-header-image.png" alt="Header image">
 <h3 align="center">👋 Hello! I'm a Computer Science Engineering student currently focused on web development. My career goal is to become a Solutions Architect. I have basic knowledge in Python, C#, C++, JavaScript, Java, SQL, and SQL Server. I'm always eager to learn new technologies and strengthen my existing skills.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/totoya503](https://github.com/totoya503)
