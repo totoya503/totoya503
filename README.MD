@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">👋 ¡Hola! Soy un estudiante de Ingeniería en Ciencias de la Computación, actualmente enfocado en el desarrollo web. Mi objetivo profesional es convertirme en Arquitecto de Soluciones. Tengo conocimientos básicos en Python, C#, C++, JavaScript, Java, SQL y SQL Server. Siempre estoy dispuesto a aprender nuevas tecnologías y fortalecer mis habilidades existentes.</h3>
+<h3 align="center">👋 Hello! I'm a Computer Science Engineering student currently focused on web development. My career goal is to become a Solutions Architect. I have basic knowledge in Python, C#, C++, JavaScript, Java, SQL, and SQL Server. I'm always eager to learn new technologies and strengthen my existing skills.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/totoya503](https://github.com/totoya503)
 
 - 📫 How to reach me **angeleme503@gmail.com**
 
-- ⚡ Fun fact **Siempre estoy buscando nuevas formas de aprender de manera divertida**
+- ⚡ Fun fact **I'm always looking for new ways to learn in a fun way.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
